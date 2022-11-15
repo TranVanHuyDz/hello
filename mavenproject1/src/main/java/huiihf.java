@@ -9,5 +9,6 @@
  */
 public class huiihf {
     String name;
+    Double canNang;
     
 }
